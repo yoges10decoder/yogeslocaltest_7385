@@ -1,0 +1,7 @@
+{
+  "name": "yogeslocaltest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
